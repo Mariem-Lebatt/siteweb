@@ -1,3 +1,28 @@
+# Site web personnel — Mariem Lebatt
+
+Bienvenue sur mon site web personnel, réalisé dans le cadre du cours **Outils numériques en sciences sociales (POL-6078)** à l'Université Laval.
+
+## Présentation
+
+Je suis étudiante à la maîtrise en études internationales et diplomatie à l'Université Laval. Je suis également titulaire d'une licence en sciences politiques de l'Université Internationale de Rabat.
+
+Ce site présente mon parcours universitaire, mes compétences, mes réalisations et mes coordonnées professionnelles.
+
+## Technologies utilisées
+
+- HTML et CSS pour la structure et la présentation du site.
+- Git et GitHub pour la gestion des versions.
+- GitHub Pages pour la publication du site.
+
+## Consulter mon site
+
+[Visiter mon site personnel](https://mariem-lebatt.github.io/siteweb/)
+
+---
+
+## Guide de réalisation du projet
+
+
 # Créer votre site web avec GitHub Pages
 
 Bienvenue ! Ce guide vous expliquera comment utiliser GitHub Pages pour créer votre propre site web personnel en utilisant n'importe quel template HTML. 
